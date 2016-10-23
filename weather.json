@@ -1,0 +1,83 @@
+{
+  "error": 0,
+  "status": "success",
+  "date": "2016-10-23",
+  "results": [
+    {
+      "currentCity": "杭州",
+      "pm25": "47",
+      "index": [
+        {
+          "title": "穿衣",
+          "zs": "较舒适",
+          "tipt": "穿衣指数",
+          "des": "建议着薄外套、开衫牛仔衫裤等服装。年老体弱者应适当添加衣物，宜着夹克衫、薄毛衣等。"
+        },
+        {
+          "title": "洗车",
+          "zs": "不宜",
+          "tipt": "洗车指数",
+          "des": "不宜洗车，未来24小时内有雨，如果在此期间洗车，雨水和路上的泥水可能会再次弄脏您的爱车。"
+        },
+        {
+          "title": "旅游",
+          "zs": "适宜",
+          "tipt": "旅游指数",
+          "des": "有降水，温度适宜，在细雨中游玩别有一番情调，可不要错过机会呦！但记得出门要携带雨具。"
+        },
+        {
+          "title": "感冒",
+          "zs": "较易发",
+          "tipt": "感冒指数",
+          "des": "虽然温度适宜但风力较大，仍较易发生感冒，体质较弱的朋友请注意适当防护。"
+        },
+        {
+          "title": "运动",
+          "zs": "较不宜",
+          "tipt": "运动指数",
+          "des": "有降水，且风力较强，较适宜在户内进行各种健身休闲运动；若坚持户外运动，请注意保暖。"
+        },
+        {
+          "title": "紫外线强度",
+          "zs": "最弱",
+          "tipt": "紫外线强度指数",
+          "des": "属弱紫外线辐射天气，无需特别防护。若长期在户外，建议涂擦SPF在8-12之间的防晒护肤品。"
+        }
+      ],
+      "weather_data": [
+        {
+          "date": "周日 10月23日 (实时：20℃)",
+          "dayPictureUrl": "http://api.map.baidu.com/images/weather/day/zhenyu.png",
+          "nightPictureUrl": "http://api.map.baidu.com/images/weather/night/yin.png",
+          "weather": "阵雨转阴",
+          "wind": "北风4-5级",
+          "temperature": "23 ~ 17℃"
+        },
+        {
+          "date": "周一",
+          "dayPictureUrl": "http://api.map.baidu.com/images/weather/day/yin.png",
+          "nightPictureUrl": "http://api.map.baidu.com/images/weather/night/yin.png",
+          "weather": "阴",
+          "wind": "北风3-4级",
+          "temperature": "23 ~ 18℃"
+        },
+        {
+          "date": "周二",
+          "dayPictureUrl": "http://api.map.baidu.com/images/weather/day/duoyun.png",
+          "nightPictureUrl": "http://api.map.baidu.com/images/weather/night/yin.png",
+          "weather": "多云转阴",
+          "wind": "北风微风",
+          "temperature": "25 ~ 20℃"
+        },
+        {
+          "date": "周三",
+          "dayPictureUrl": "http://api.map.baidu.com/images/weather/day/zhenyu.png",
+          "nightPictureUrl": "http://api.map.baidu.com/images/weather/night/yin.png",
+          "weather": "阵雨转阴",
+          "wind": "南风微风",
+          "temperature": "26 ~ 21℃"
+        }
+      ]
+    }
+  ]
+}
